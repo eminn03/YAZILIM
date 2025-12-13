@@ -19,6 +19,8 @@ Bu projede geliştirilen ana modüller:
 - Sondaj Görevi
 
 - Roverın Haritalandırması İçin Çözümler
+
+- Manuel Araç Kontrol
   
 Her modül ilgili ekip üyesi tarafından geliştirilir ve düzenli olarak bu depoya yüklenir.
 
@@ -33,25 +35,21 @@ Her modül ilgili ekip üyesi tarafından geliştirilir ve düzenli olarak bu de
 
 🟨 Ali — Navigasyon & AR-GPS İşleme
 ------------------------------------
-Navigasyon görevi
------------------
 - ARuco kod tespiti
 - GPS konumlandırma
 - En uygun yolu bulma algoritmaları
-- Otonom sürüş
+- Otonom sürüş kontrolü
 
 🟨 Defne — Sondaj Görevi
 -------------------------
-Sondaj görevi
--------------
 - Prob tespiti
-- Otonom sürüş
+- Otonom sürüş kontrolü
 
 🟨 Mustafa — Örnekleme Görevi
 ------------------------------
 - Örnekleme kaya tespiti sonrası fotoğraf çekme
-- Kayalık tespiti ve sınıflandırma
-- Otonom sürüş
+- Kaya veya taş tespiti ve sınıflandırma
+- Otonom sürüş kontrolü
 
 🟨 Beyza — Araç Haritalandırma - Gazebo
 ----------------------------------------
@@ -62,10 +60,14 @@ Sondaj görevi
 ---------------------------------
 - Aracın belirli bir noktayı QR kod ile tespit edip otonom olarak gitmesi
 - PH ölçümü
+- Otonom sürüş kontrol
 
 🟨 Mehmet Emin — Arayüz Geliştirme
 -----------------------------------
 - Yer istasyonunda bulunan PC üzerindeki arayüzü geliştirip takım arkadaşların tarafından yazılan kodlara entegre etme
+- Arayüzü eklenebilecek özellikleri araştırılıp entegre edilmesi
+- Manuel araç kontrolü
+
 
 
 
